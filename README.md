@@ -3,11 +3,7 @@
 Certainly! Here's the content formatted for a `Readme.md` file:
 
 ---
-
-# AIOps-LogParser
-
-This repository is part of COEN691 - Artificial Intelligence for Software Systems Operations course instructed by Professor Wahab Hamou-Lhadj, PhD.
-
+# AIOps Log Parsing
 ## Objective
 
 The objective of this study is to assess the capability of ChatGPT, a state-of-the-art large language model, in the domain of automated log parsing for software engineering tasks. Software logs are crucial for ensuring the reliability and maintainability of large-scale software systems by providing essential runtime information. Log parsing involves converting unstructured log messages into structured data, which is vital for tasks such as anomaly detection, failure prediction, and security monitoring.
