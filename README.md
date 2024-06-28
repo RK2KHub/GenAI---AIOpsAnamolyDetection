@@ -1,7 +1,4 @@
 # MLOpsAnamolyDetection
-
-Certainly! Here's the content formatted for a `Readme.md` file:
-
 ---
 # AIOps Log Parsing
 ## Objective
